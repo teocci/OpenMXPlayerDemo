@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenMXPlayerDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_about">(C) 2014 , Radu Motisan , www.pocketmagic.net</string>
+    <string name="but1">List codecs</string>
+    <string name="but2a">1.Load MP3</string>
+    <string name="but2b">1.Load AAC</string>
+    <string name="but2c">1.Load WMA</string>
+    <string name="but3">1.Load custom</string>
+	<string name="but4">2.Play</string>
+    <string name="but5">3.Pause</string>
+	<string name="but6">4.Stop</string>
+	<string name="seek_instr">Move seekbar to seek</string>
+    <string name="video_link"><![CDATA[https://r4---sn-3u-bh2y.googlevideo.com/videoplayback?mt=1491807203&pl=22&gir=yes&id=o-AOu2Y3AcamwwoRCJdozxrpeBywlv056DlJfvSxZj4vn-&ms=au&mm=31&mn=sn-3u-bh2y&key=yt6&ip=59.27.125.233&keepalive=yes&dur=267.540&ei=VizrWOmlCs3vqAHnuZWQAw&requiressl=yes&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cupn%2Cexpire&initcwndbps=3763750&mv=m&expire=1491828918&ipbits=0&itag=140&mime=audio%2Fmp4&source=youtube&clen=4249835&lmt=1458204416469751&upn=aIhDyvD_kew&signature=681D52AC38DA58C5E9BDC932DF19AEA44DCB4ABB.3E97460009B13B494090F6FC7872B9C1C7F7A0DC]]></string>
+    <string name="valid_url">Enter file path or valid URL</string>
+    <string name="playback_stopped">Playback Stopped.</string>
+    <string name="error_enconuntered">An error has been encountered</string>
+</resources>
